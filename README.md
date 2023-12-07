@@ -2,7 +2,7 @@
 Ecommerce website
 
 npm start
-    Starts the development server.
+Starts the development server.
 
 npm run build
-    Bundles the app into static files for production.
+Bundles the app into static files for production.
